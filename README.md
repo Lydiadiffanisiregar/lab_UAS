@@ -139,7 +139,7 @@ Hapus data
 ![flowchart](foto/flowchart.jpeg)
 
 ***
-**Sekian tugas saya untuk syarat UAS Semester 1 ini, Terimkasih.**
+**Sekian tugas saya untuk syarat UAS Semester 1 ini, Terimakasih.**
 <br>
 
 **Lydia Diffani Siregar**
